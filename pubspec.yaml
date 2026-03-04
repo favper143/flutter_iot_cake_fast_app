@@ -20,6 +20,8 @@ dependencies:
   carousel_slider: ^5.1.2
   dots_indicator: ^4.0.1
   cupertino_icons: ^1.0.8
+  flutter_map: ^8.2.2
+  latlong2: ^0.9.1
 
 dev_dependencies:
   flutter_test:
